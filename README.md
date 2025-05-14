@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=venkatlokesh99&style=flat&color=orange&label=PROFILE+VIEWS" alt="Total Profile Views" />
 </div>
 
-
-
 <table align="center"><tr><td valign="top" width="35%">
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -68,7 +66,8 @@
   <a href="https://codepen.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>   </a>
   <a href="https://codepen.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="50" height="50"/>   </a>
 </p>       
-</td></tr></table>
+</td>
+</tr></table>
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatlokesh99&show_icons=true&theme=default)
