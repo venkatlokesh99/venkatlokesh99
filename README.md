@@ -1,7 +1,7 @@
 <div align="center" width="50">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20{Coders}%20I'm%20Lokesh&animation=scaleIn&fontSize=63" width="60%" />
   <img src="https://github.com/venkatlokesh99/venkatlokesh99/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="60%"/><br>
-  <img src="https://quotes-github-readme.vercel.app/api?quote=I%20have%20no%20special%20talents.%20I%20am%20only%20passionately%20curious.&type=horizontal&theme=light&border=true&author=Albert%20Einstein" alt="Readme Quote" /><br>
+  <img src="https://quotes-github-readme.vercel.app/api?quote=I%20have%20no%20special%20talents.%20I%20am%20only%20passionately%20curious.&type=horizontal&border=true&author=Albert%20Einstein" alt="Readme Quote" /><br>
   <img src="https://komarev.com/ghpvc/?username=venkatlokesh99&style=flat&color=orange&label=PROFILE+VIEWS" alt="Total Profile Views" />
 </div>
 
