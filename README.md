@@ -64,7 +64,7 @@
  <a href="https://go.dev/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="50" height="50"/> </a>
  <a href="https://graphql.org/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" width="50" height="50"/> </a>
  <a href="https://flask.palletsprojects.com/en/stable/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="50" height="50"/> </a>
- <a "https://nginx.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/> </a>
+ <a href="https://nginx.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/> </a>
  <a href="https://spring.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50" height="50"/>  </a>          
 </p>
 
