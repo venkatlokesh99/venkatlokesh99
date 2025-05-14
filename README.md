@@ -28,7 +28,7 @@
   <a href="https://codepen.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" alt="Codepen" width="50" height="50"/>  </a>
 </p>
   
-</td><td valign="top" width="33%">
+</td><td valign="top" width="35%">
 <h3 align="center">Frontend Development</h3>
 <p align="center">
  <a href="https://codepen.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>  </a>
@@ -45,7 +45,7 @@
 <h3 align="center">Other</h3>
 <p align="center"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.digitalocean.com/" > <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" alt="digitalocean" width="40" height="40"/> </a> <a href="https://www.apache.org/" > <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/> </a> </p>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="35%">
 <h3 align="center">Backend Development</h3>
 <p align="center">
  <a href="https://codepen.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/> </a>
@@ -65,7 +65,9 @@
   <a href="https://codepen.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="50" height="50"/>   </a>
   <a href="https://codepen.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>   </a>
   <a href="https://codepen.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="50" height="50"/>   </a>
-</p>       
+  <a href="https://codepen.io/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50"/>   </a>
+  <a href="https://codepen.io/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="dynamodb" width="50" height="50"/>   </a>
+</p>
 </td>
 </tr></table>
 
