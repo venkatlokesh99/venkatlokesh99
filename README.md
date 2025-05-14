@@ -75,7 +75,7 @@
   <a href="https://www.postgresql.org/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="50" height="50"/>   </a>
   <a href="https://www.mongodb.com/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>   </a>
   <a href="https://aws.amazon.com/dynamodb/" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="50" height="50"/>   </a>
-  <a href="https://docs.pytest.org/en/stable/ > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50"/>   </a>
+  <a href="https://docs.pytest.org/en/stable/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" alt="Pytest" width="50" height="50"/>   </a>
   <a href="https://www.selenium.dev/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50"/>   </a>
 </p>
 </td>
