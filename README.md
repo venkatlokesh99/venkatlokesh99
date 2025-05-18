@@ -85,14 +85,11 @@
 
 <p align="center">
 <a href="https://github.com/venkatlokesh99">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venkatlokesh99&show_icons=true&theme=ambient_gradient&&rank_icon=github&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venkatlokesh99&show_icons=true&theme=ambient_gradient&&rank_icon=github" />
 </a>
 <a href="https://github.com/venkatlokesh99">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=venkatlokesh99&theme=shades-of-purple&card_width=450" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=venkatlokesh99&theme=shades-of-purple" />
 </a>
-</p>
-
-<p align="center">
 <a href="https://github.com/venkatlokesh99">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkatlokesh99&layout=compact&langs_count=8" />
 </a>
