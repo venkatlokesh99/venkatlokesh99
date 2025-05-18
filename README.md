@@ -84,16 +84,16 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkatlokesh99&show_icons=true&theme=ambient_gradient&&rank_icon=github&card_width=503) [![GitHub Streak](https://streak-stats.demolab.com?user=venkatlokesh99&theme=shades-of-purple&card_width=504)](https://git.io/streak-stats) -->
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venkatlokesh99&show_icons=true&theme=ambient_gradient&&rank_icon=github" />
+<a href="https://github.com/venkatlokesh99">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venkatlokesh99&show_icons=true&theme=ambient_gradient&&rank_icon=github&card_width=400" />
 </a>
-<a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=venkatlokesh99&theme=shades-of-purple" />
+<a href="https://github.com/venkatlokesh99">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=venkatlokesh99&theme=shades-of-purple&card_width=450" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/venkatlokesh99">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkatlokesh99&layout=compact&langs_count=8" />
 </a>
 </p>
