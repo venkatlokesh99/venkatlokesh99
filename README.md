@@ -91,8 +91,8 @@
 <a href="https://github.com/venkatlokesh99">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=venkatlokesh99&show_icons=true&theme=ambient_gradient&&rank_icon=github" />
 </a>
-<a href="https://git.io/streak-stats">
-	<img src="https://streak-stats.demolab.com?user=venkatlokesh99&theme=shades-of-purple" alt="GitHub Streak" />
+<a href="https://github.com/venkatlokesh99">
+	<img height=200 align="center" src="https://streak-stats.demolab.com/?user=venkatlokesh99&theme=shades-of-purple" alt="GitHub Streak" />
 </a>
 <a href="https://github.com/venkatlokesh99">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkatlokesh99&layout=compact&langs_count=8&theme=discord_old_blurple&card_width=350" />
