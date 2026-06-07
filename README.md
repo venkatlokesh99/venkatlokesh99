@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20{Coders}%20I'm%20Lokesh&animation=scaleIn&fontSize=63" width="60%" />
   <img src="https://github.com/venkatlokesh99/venkatlokesh99/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="60%"/><br>
   <p> 👋 Hey there!  I'm <h2>Venkat Lokesh Vejendla</h2>
-🚀 A passionate <b></b>Software Engineer & CS Graduate Student<b></b> at the University of Florida, with <b>2.5+ years of experience</b> building production-ready systems, from full-stack web apps to scalable cloud-native microservices.<br>
+🚀 A passionate <b></b>Software Engineer & CS Graduate <b></b> at the University of Florida, with <b> 5+ years of experience</b> building production-ready systems, from full-stack web apps to scalable cloud-native microservices.<br>
 📍 Open to Full-time oppurtunities, internships, collabs & building the next big thing in <b>AI-powered products</b>.<br>
   <b><i>“Code is only as powerful as the problem it solves.”</i></b> - Let’s solve big ones together 🚀</p>
   <img src="https://quotes-github-readme.vercel.app/api?quote=I%20have%20no%20special%20talents.%20I%20am%20only%20passionately%20curious.&type=horizontal&border=true&author=Albert%20Einstein" alt="Readme Quote" /><br>
